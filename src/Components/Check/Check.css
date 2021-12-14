@@ -1,0 +1,12 @@
+.check__item--name, .check__item--balance{
+    font-size: 1.4rem;
+    color: #252525;
+}
+
+.check__item--name{
+    margin-right: 2rem;
+}
+
+.check__item--balance{
+    font-weight: 600;
+}
